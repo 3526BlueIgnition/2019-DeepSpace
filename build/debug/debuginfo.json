@@ -1,0 +1,16 @@
+[
+  {
+    "artifact": "frcJava (in project Avance)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "Avance",
+    "language": "java"
+  },
+  {
+    "artifact": "frcJava (in project Avance3526)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "Avance3526",
+    "language": "java"
+  }
+]
